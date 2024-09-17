@@ -1,4 +1,4 @@
-import LeadCalculator from '@/components/LeadCalculator';
+import LeadCalculator from '../components/LeadCalculator';
 
 export default function Home() {
   return (
